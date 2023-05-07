@@ -1,1 +1,1 @@
-# LeeKim
+#combine Hangman and Dice Game
